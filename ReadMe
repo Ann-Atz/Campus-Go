@@ -1,1 +1,37 @@
-Campus Go
+# 🚀 CampusGO – Smart, Sustainable, and Seamless Student Mobility
+
+## 💡 Project Pitch (One-Sentence Idea)
+
+A smart campus app that integrates buses, scooters, parking, carpooling, and walking routes into one platform—featuring AI-powered routing, predictive parking, and Eco-Points for sustainable travel.
+
+---
+
+## 🛑 The Problem
+
+Campus mobility today is **chaotic, inefficient, and not student-centric**.
+
+* **Buses:** Arrivals are irregular 🚍
+* **Parking:** Parking lots are frequently overcrowded 🚗
+* **Scooters:** Scooters are often left in the wrong locations 🛴
+* **User Experience:** Students must use multiple, disconnected apps in parallel to plan their travel.
+
+## 🎯 The Goal
+
+Unify all campus transport options into a single app to make mobility **easy, sustainable, and stress-free**.
+
+---
+
+## 🛠️ Key Features
+
+CampusGO solves the mobility problem through the following core functionalities:
+
+1.  **Smart Routing:** AI suggests the fastest, greenest, and most efficient route.
+2.  **Predictive Parking:** Shows real-time availability of free parking spaces and forecasts occupancy.
+3.  **Accessibility Filters:** Allows filtering routes for wheelchair users and quiet zones.
+4.  **Eco-Score Wallet:** Rewards users with **Eco-Points** for environmentally friendly behavior (e.g., carpooling, cycling).
+5.  **Community Carpool:** Connects students and staff for easy ride-sharing opportunities.
+
+## 👥 Target Audience
+
+* **Primary:** Students and staff across large university campuses.
+* **Secondary:** Especially relevant for commuters, wheelchair users, and environmentally conscious individuals.
